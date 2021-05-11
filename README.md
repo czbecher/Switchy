@@ -8,4 +8,4 @@ Switchy.apk is the Android 32-bit application.
 SwitchyArduino.zip contains the Arduino code.
 SwitchyApplication.zip contains the project files.  
 
-The application was build with Embarcadero C++ Builder Community Edition, which can be downloaded here: https://www.embarcadero.com/products/cbuilder/starter/free-download
+The application was built with Embarcadero C++ Builder Community Edition, which can be downloaded here: https://www.embarcadero.com/products/cbuilder/starter/free-download
