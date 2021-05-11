@@ -5,4 +5,7 @@ Project Switchy is an Arduino-based Internet-Of-Things device that controls a ho
 
 Switchy.exe is the Windows 64-bit application.
 Switchy.apk is the Android 32-bit application.
-Switchy.ino is 
+SwitchyArduino.zip contains the Arduino code.
+SwitchyApplication.zip contains the project files.  
+
+The application was build with Embarcadero C++ Builder Community Edition, which can be downloaded here: https://www.embarcadero.com/products/cbuilder/starter/free-download
